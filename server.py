@@ -5,7 +5,7 @@ mcp = FastMCP("PowerBI Server")
 #search_description
 #filter_for_date
 #filter_business_unit_as_key
-#filter_OSHA_severity_code
+#filter_OSHA_severity_code 
 #filter everything except hand-written data (search, count incidences)
 
 #aggregate_by_field
